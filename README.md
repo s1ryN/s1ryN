@@ -17,4 +17,6 @@ Pro snadnější hledání konkrétních témat v prezentacích můžete použí
 - `jvnotes` Poznámky od JV
 - `opsys` Operační systémy a počítačové sítě
 
+Všechny témata praktických maturit k programování mají syntax v podobě dokumentace v README.md, lze je najít pod názvy `keywordsyntax`
+
 > Doporučujeme použít klávesovou zkratku **Ctrl + F** (nebo **Cmd + F** na Macu) pro rychlé vyhledání těchto výrazů v jednotlivých prezentacích.
