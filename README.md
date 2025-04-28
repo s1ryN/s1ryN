@@ -15,6 +15,7 @@ Pro snadnější hledání konkrétních témat v prezentacích můžete použí
 - `php` PHP
 - `js` JavaScript
 - `jvnotes` Poznámky od JV
+- `jvdocs` Zadání pro psaní dokumentace od JV
 - `opsys` Operační systémy a počítačové sítě
 
 Všechny témata praktických maturit k programování mají syntax v podobě dokumentace v README.md, lze je najít pod názvy `keywordsyntax`
