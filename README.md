@@ -17,7 +17,7 @@ Pro snadnější hledání konkrétních témat v prezentacích můžete použí
 - `jvnotes` Poznámky od JV
 - `jvdocs` Zadání pro psaní dokumentace od JV
 - `opsys` Operační systémy a počítačové sítě
+- `howtoexport` Anglický popis pro exportování spustitelných věcí z různých IDEs
 
-Všechny témata praktických maturit k programování mají syntax v podobě dokumentace v README.md, lze je najít pod názvy `keywordsyntax`
+Všechny témata k programování mají syntax v podobě dokumentace v README.md, lze je najít pod názvy `keywordsyntax`
 
-> Doporučujeme použít klávesovou zkratku **Ctrl + F** (nebo **Cmd + F** na Macu) pro rychlé vyhledání těchto výrazů v jednotlivých prezentacích.
