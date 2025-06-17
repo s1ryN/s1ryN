@@ -8,7 +8,6 @@ Pro snadnější hledání konkrétních témat v prezentacích můžete použí
 - `sql` SQL
 - `php` PHP
 - `js` JavaScript
-- `opsys` Operační systémy a počítačové sítě
-- `howtoexport` Anglický popis pro exportování spustitelných věcí z různých IDEs
+
 
 
