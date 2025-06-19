@@ -1,5 +1,5 @@
 ## 🔍 Klíčová slova k vyhledávání
-Pro snadnější hledání konkrétních témat v prezentacích můžete použít tato klíčová slova:
+Pro hledání konkrétních témat v repos stačí použít tato klíčová slova:
 
 - `java` JAVA
 - `cpp` C++
